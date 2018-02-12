@@ -3,7 +3,7 @@
 
 int main()
 {
-    int x aaa;
+    int x.
     float y;
     std::string phrase("Saisir un entier puis un flottant separes par un espace");
     std::string& Reference(phrase);
