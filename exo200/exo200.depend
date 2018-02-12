@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506279502 source:c:\users\ferd\documents\ece deuxieme annee\informatique\c++\exo200\main.cpp
+	<iostream>
+	<string>
+
